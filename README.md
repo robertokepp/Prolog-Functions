@@ -1,1 +1,1 @@
-# Prolog_Functions
+Prolog-Functions
